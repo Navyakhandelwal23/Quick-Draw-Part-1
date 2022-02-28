@@ -1,0 +1,40 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    background-color: pink;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size:50px;
+
+}
+
+#yourSketch{
+    background-color: aliceblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+#confidence{
+    background-color: aliceblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+#toBeDrawn{
+    background-color: lightsalmon;
+    font-size: 30px;
+    font-family: "courier new"
+}
+
+#timer{
+    background-color:aquamarine;
+    font-size:medium;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+#score{
+    background-color:aquamarine;
+    font-size:medium;
+    font-family: Copperplate, Papyrus, fantasy;
+}
